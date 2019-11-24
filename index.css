@@ -1,0 +1,11 @@
+h3 {
+    color: orange;
+    margin-bottom: 100px;
+
+}
+
+.main {
+    padding: 100px;
+    border: blue 3px solid;
+    text-align: center;
+}
